@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888765758195",
+    "project_id": "bdchat-ba001",
+    "storage_bucket": "bdchat-ba001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888765758195:android:5df5c79aa8e19e963d1586",
+        "android_client_info": {
+          "package_name": "com.apt.bdchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3rBmNiKqTbm_phEUyNclnGyK5AatdOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
